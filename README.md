@@ -4,14 +4,12 @@ Chronicle API turns long, complex text such API description into short, clear, a
 # Chronicle-API, Smart Note Summarizer API
 
 
-#### Description:
 The Smart Note Summarizer API is a lightweight, asynchronous RESTful service built with FastAPI and Python. It manages personal notes and uses Google's Gemini API (`google-genai` SDK) to generate concise, automated AI summaries of stored notes.
 
 ---
 
-## Project Overview & Problem Statement
 
-In modern software development and daily engineering workflows, developers frequently face extreme information overload. Skimming through lengthy documentation, dense meeting logs, or extensive database records to find core takeaways is inefficient and time-consuming. When engineers lack immediate clarity on what is inside a piece of content, productivity stalls.
+Developers frequently face extreme information overload. Skimming through lengthy documentation, dense meeting logs, or extensive database records to find core takeaways is inefficient and time-consuming. When engineers lack immediate clarity on what is inside a piece of content, productivity stalls.
 
 This project is a lightweight, asynchronous RESTful microservice built using [FastAPI](https://fastapi.tiangolo.com/). It acts as an intelligent backend processing layer that leverages the [Google Gemini API](https://ai.google.dev/) to digest, reiterate, and condense dense text into clear, actionable insights.
 
