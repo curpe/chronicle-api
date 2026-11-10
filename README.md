@@ -1,10 +1,10 @@
 # chronicle-api
-Chronicle API turns long, complex text such API description into short, clear, and actionable summaries
+Chronicle API turns long, complex text such API description into short, clear, and actionable summaries using AI
 
-# Chronicle-API, Smart Note Summarizer API
+# Chronicle-API, AI Smart Note Summarizer API
 
 
-The Smart Note Summarizer API is a lightweight, asynchronous RESTful service built with FastAPI and Python. It manages personal notes and uses Google's Gemini API (`google-genai` SDK) to generate concise, automated AI summaries of stored notes.
+The Smart Note Summarizer API is a lightweight, asynchronous RESTful service built with FastAPI and Python, and AI. It manages personal notes and uses Google's Gemini API (`google-genai` SDK) to generate concise, automated AI summaries of stored notes.
 
 ---
 
